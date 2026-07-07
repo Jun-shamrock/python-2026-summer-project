@@ -16,3 +16,4 @@ Python 문법, Numpy 기반 신호처리, 진자 시뮬레이터, PID 제어기 
     - init -> add -> commit -> push 워크플로우
     - 저장소 2개 생성(연습용 private + 프로젝트용 public)
 - Numpy 기초 자료 사전 학습
+    - 26-1학기 선형대수 수강: 행렬·벡터 연산 + numpy 예제 학습
